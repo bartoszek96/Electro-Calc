@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/Electro-Calc/static/js/main.63d661e3.chunk.js",
+    "main.js.map": "/Electro-Calc/static/js/main.63d661e3.chunk.js.map",
+    "runtime-main.js": "/Electro-Calc/static/js/runtime-main.7751018b.js",
+    "runtime-main.js.map": "/Electro-Calc/static/js/runtime-main.7751018b.js.map",
+    "static/js/2.800369a4.chunk.js": "/Electro-Calc/static/js/2.800369a4.chunk.js",
+    "static/js/2.800369a4.chunk.js.map": "/Electro-Calc/static/js/2.800369a4.chunk.js.map",
+    "index.html": "/Electro-Calc/index.html",
+    "precache-manifest.c002e53932904f79550947454c3c1538.js": "/Electro-Calc/precache-manifest.c002e53932904f79550947454c3c1538.js",
+    "service-worker.js": "/Electro-Calc/service-worker.js",
+    "static/js/2.800369a4.chunk.js.LICENSE.txt": "/Electro-Calc/static/js/2.800369a4.chunk.js.LICENSE.txt",
+    "static/media/LedResistor.jpg": "/Electro-Calc/static/media/LedResistor.852befe2.jpg",
+    "static/media/PCB.jpg": "/Electro-Calc/static/media/PCB.40cfa2b2.jpg",
+    "static/media/Resistor.jpg": "/Electro-Calc/static/media/Resistor.374afeee.jpg",
+    "static/media/ResistorCurrent.jpg": "/Electro-Calc/static/media/ResistorCurrent.f97f38b1.jpg",
+    "static/media/ResistorPower.jpg": "/Electro-Calc/static/media/ResistorPower.83d439a2.jpg",
+    "static/media/ResistorResistance.jpg": "/Electro-Calc/static/media/ResistorResistance.01f28eb9.jpg",
+    "static/media/ThreePhase.jpg": "/Electro-Calc/static/media/ThreePhase.5294ced8.jpg",
+    "static/media/ThreePhaseCurrent.jpg": "/Electro-Calc/static/media/ThreePhaseCurrent.adefb9d7.jpg",
+    "static/media/ThreePhasePower.jpg": "/Electro-Calc/static/media/ThreePhasePower.395e1e28.jpg",
+    "static/media/VoltageDivider.jpg": "/Electro-Calc/static/media/VoltageDivider.dacc5a9e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7751018b.js",
+    "static/js/2.800369a4.chunk.js",
+    "static/js/main.63d661e3.chunk.js"
+  ]
+}
