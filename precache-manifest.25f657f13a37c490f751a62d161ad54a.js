@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1d469c192e2e87138aaa274c71cea94",
+    "revision": "67ff7f1bf4dffaf144c179e5e8ef924c",
     "url": "/Electro-Calc/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Electro-Calc/static/js/2.800369a4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a6fe2fbbc391858a7333",
-    "url": "/Electro-Calc/static/js/main.63d661e3.chunk.js"
+    "revision": "2857fce53e3a3b36990a",
+    "url": "/Electro-Calc/static/js/main.02426a0b.chunk.js"
   },
   {
     "revision": "2c1f9b2cca0ab7aa9fad",
